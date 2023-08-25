@@ -1,0 +1,77 @@
+Here are the answers to the multiple-choice questions:
+
+    ASCII
+    2
+    Float
+    Integers, floats
+    AND
+    RAM
+    Output
+    Cost-Benefit Analysis (CBA)
+    Meaningful Collection
+    Bits per second
+    8
+    Identify the problem
+    Approach each problem individually
+    Social engineering
+    Unauthorized information alteration
+    Configure daily updates
+    Change the default password on the router to something only you know
+    Use parental control software to create whitelists and blacklists for appropriate and inappropriate content
+    Have employees connect their personal devices to the network
+    Biometrics
+    Role-based
+    Video
+    Dictionary attack
+    Create complex passwords for each site and use a password manager
+    A PIN or passcode
+    OpenPGP
+    RAID 0
+    Cold site
+    Report
+    It stores data in a structured way that is easy to retrieve
+    Relational database
+    Structured data
+    UNIQUE
+    Delete
+    User interface/utility access
+    Hot backup
+    Compiled programming language
+    Query language
+    Scripting language
+    Start, open file, read number, write number, if not at end of file then continue to next number, else close file, end
+    Do...While loop
+    Branching
+    Arrays
+    Function
+    Constant
+    Find disk utility for managing internal and external drives
+    Taskkill
+    NTFS
+    The driver is compatible with the hardware
+    Word processing software
+    Document sharing software
+    Locally installed
+    One-tier model
+    Clear the cache
+    HTTP proxy
+    Open source license
+    Concurrent license
+    Safe mode
+    Bluetooth
+    Firewire
+    Lime green
+    Nothing else is required as the keyboard is plug and play and it will be automatically recognized by the computer and begin working
+    BIOS
+    NIC
+    CPU
+    Considered as an "Always-on" connection
+    Fixed wireless service
+    Optical drive
+    NAS
+    Server
+    Server
+    IP address
+    LAN
+    802.11ac
+    WPA2

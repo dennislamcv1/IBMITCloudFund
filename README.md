@@ -1,5 +1,6 @@
-# IBMITCloudFund
-## Information Technology (IT) and Cloud Fundamentals Specialization
+# IBMITCLOUDFUND
+
+## Information Technology (IT) and Cloud Fundamentals Specialization (6 course series)
 
 In today’s connected world, core knowledge of IT hardware, software, networking, cybersecurity, and cloud technologies is vital for almost every function, or role within an organization. Adding storage, updating an operating system, connecting to a network, recognizing phishing, and setting up Cloud instances are some of the skills employees need or need help with.
 
